@@ -1,6 +1,4 @@
 # car-and-chasis
-# Car Management System
-
 This is a simple Car Management System written in Java. It allows you to add, remove, and display cars in a list. Each car has a model and a chassis number.
 
 ## Features
